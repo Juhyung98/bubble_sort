@@ -10,10 +10,10 @@ It contains original bubble sort and improved bubble sort algorithm.
 study original bubble_sort   
 
 #2 advanced_bubble_flag.c     
-
+---------------------------------------     
 make advanced bubble sort using flag      
       
 #3 advanced_bubble_index.c        
----------------------------------------       
+---------------------------------------     
 make advanced bubble sort with smaller range     
   
