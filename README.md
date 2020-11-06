@@ -1,6 +1,6 @@
 # bubble_sort
 study bubble_sort   
-
+It contains original bubble sort and improved bubble sort algorithm.   
 --------------------------------------   
 #1 bubble_sort.c   
 study original bubble_sort   
