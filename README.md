@@ -1,7 +1,7 @@
 Bubble sort      
 =================================================================      
      
-study bubble_sort      
+You can study bubble sort by looking this code.     
 It contains original bubble sort and improved bubble sort algorithm.      
 
 
