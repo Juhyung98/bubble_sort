@@ -1,4 +1,6 @@
-# bubble_sort
+Bubble sort
+=================================================================
+
 study bubble_sort   
 It contains original bubble sort and improved bubble sort algorithm.   
 --------------------------------------   
