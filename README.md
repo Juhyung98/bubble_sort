@@ -1,19 +1,15 @@
-Bubble sort      
-=================================================================      
-     
-You can study bubble sort by looking this code.     
+# Bubble sort      
+           
+Study bubble sort!
 It contains original bubble sort and improved bubble sort algorithm.      
 
 
-#1 bubble_sort.c     
----------------------------------------     
+🔵 1. bubble_sort.c         
 study original bubble_sort   
 
-#2 advanced_bubble_flag.c     
----------------------------------------     
+🔵 2. advanced_bubble_flag.c        
 make advanced bubble sort using flag      
       
-#3 advanced_bubble_index.c        
----------------------------------------     
+🔵 3. advanced_bubble_index.c          
 make advanced bubble sort with smaller range     
   
